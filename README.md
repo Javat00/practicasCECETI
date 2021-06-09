@@ -5,9 +5,18 @@ Todas las prácticas aquí incluidas son referentes a una empresa ficticia usada
 
 El contenido de las mismas son:
 
-1.Sistema de cumplimiento normativo.
-2.Plan de protección de ciberseguridad de la organización.
-3.Plan de respuesta a incidentes
+1. Sistema de cumplimiento normativo.
 
-extra
-4.Simulación de resolución de un incidente.
+2. Plan de protección de ciberseguridad de la organización.
+
+3. Plan de respuesta a incidentes
+
+
+
+======
+
+EXTRA
+
+======
+
+4. Simulación de resolución de un incidente.

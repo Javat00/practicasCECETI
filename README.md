@@ -9,7 +9,7 @@ El contenido de las mismas son:
 
 2. Plan de protección de ciberseguridad de la organización.
 
-3. Plan de respuesta a incidentes
+3. Plan de respuesta a incidentes.
 
 
 
